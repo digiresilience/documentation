@@ -1,0 +1,28 @@
+# This document captures the features we would like to see in the platform
+
+	•	SP/IP ability to change the status of the ticket as per cases mentioned here - for example:
+	•	SP to accept/reject the ticket.
+	•	IP to change the status to 'Reviewed'.
+	•	More cases might exist. 
+	•	If we change a SP on a ticket, they should get an email notifications, telling them that we removed them from the ticket and assigned it to a new SP.
+	•	Proper rating system - both in terms of IPs to provide that and for us admin to incorporate it in the overall rating.
+	•	Password change to be more streamlined
+	•	Individual vs organizational accounts
+	•	Encryption of database - prelude to be able to keep more information in the platform and do more communications via the platform
+[If it happens, we need to update the partners who have been onboarded already as we told them not to put sensitive information in the platform.]
+	•	API response headers:
+                        DEV: we probably can set the CORS headers to only allow domain community.civicdr.org:
+                        NOW: Access-Control-Allow-Origin        
+                        LATER: Access-Control-Allow-Origin      
+                                     *community.civicdr.org (or something similar)
+	•	And/OR for service provider selection (Right now is AND) and limits the selections
+	•	Better login/action tracking on the platform mainly for admin accounts. One suggestion is to indicate the admin account (eg. maya@asl19.org) on message threads in tickets, so everybody else would know who's working on the ticket at the moment. 
+	•	Brought up by DSX: Updates to taxonomy function to allow for more flexibility.
+	•	Brought up by DSX: Development of “kill & dump” function -- discarding completed records and downloading pertinent data.
+	•	Possibility of moving the database (and API) to AWS for better monitoring and whitelisting (would that change the feature re DB encryption?)
+	•	Possible changes in the platform to combine SPs’ workflow with CiviCDR in more streamlined way. Eg. more flexible configuration in tickets. Needs elaboration. 
+	•	Including the ticket number (or something) in the notification emails sent from the platform so admins can easily find what’s changed when logging in
+	•	Maybe a new Notes filed in SP and IP profile that is visible only to CiviCDR team. In there we can mention things like special process a SP has asked. 
+	•	Using Traffic Light Protocol (TLP) in tickets, notifications, communications.   
+	•	 Ability to bookmark                                                                                                                      
+	
