@@ -1,0 +1,51 @@
+Last Modified: November 2017
+
+# Ticket lifecycle (under progress) 
+
+	•	New ticket is created in the platform
+
+	•	We, CiviCDR team get an email notification indicating that a new ticket has been opened
+
+	•	We Give IP immediate steps for mitigation when possible
+
+	•	We might need to get more info from IP by contacting them which means we need to establish a secure channel of communication with them
+	•	We use our individual emails when communication outside of platform is needed
+
+
+	•	Choose the best suited SP for the incident
+
+	•	Communicate with SP
+	•	Reach out to selected SP via email (template needs to be created)
+	•	We use our individual emails to send this out
+
+	•	If SP hasn’t replied in a timely manner reach out to the next relevant SP:
+	•	Waiting time depends on the urgency and severity of incident
+
+	•	If SP requires money for the service, they will let us know via SP thread or other agreed upon means. CiviCDR team will take it with them offline for further steps - this will involve getting a SOW from SP and us then providing a contract. Once approved in principle by a team member, work can go ahead while formal approval is sought. 
+
+	•	When SP agrees to take on the case: 
+	•	Assign the ticket to SP in the platform:
+	•	This will generate a notification email to SP at the email address they define in their profile.
+	•	Ticket status will change from Unassigned to Assigned, but this won’t generate an email notification for IP.
+
+	•	We will get an email when SP added their contact (for this ticket) to the ticket. They don’t have to do so if the contact for the ticket is the same as default contact for the SP (this data is in SP’s profile)
+
+	•	Personalized handover - We will do the introduction between IP and SP via email (might change): 
+	•	The email might not be encrypted 
+	•	We use our individual emails for this
+	•	Note: We can also use threads in ticket to send messages to IP and SP separately, for example informing IP about the SP assigned to their case. 
+
+
+	•	At this point we might choose to change the status of the ticket to In Progress
+
+	•	When SP completes assistance, they have to let us know, so that we can update the ticket. They have to either use the Comments to CiviCDR section (generates a notification email for us) or let us know by other agreed upon means.
+
+	•	We will go back to platform and if all good, we should change the status to “Resolved”. We will ask IP and SP about the feedback, input, etc. 
+
+	•	We should rate the SP based on IP’s feedback. We are only able to re-write the previous rating or just leave it as it is. [Internally we should keep the more detailed feedbacks]
+
+	•	After all is said and done, we will change the status to “Reviewed”. Note that change of ticket status will send a notification email to both SP and IP. The time between Resolved and Reviewed status, gives time to IPs (and SPs) time to download tickets too.
+
+	•	After the incident life cycle is complete, see if possible to get a aggregated report from SP for knowledge base.
+
+	•	We should download the ticket and delete it from the system. Check here for the process for this. [Notes and Threads are not saved by download] 
